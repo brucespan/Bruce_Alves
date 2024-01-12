@@ -9,6 +9,14 @@
   padding-bottom: 150px;
 }
 
+.inicio img {
+  transition: 1s;
+}
+
+.inicio img:hover {
+  translate: -20px;
+}
+
 .web {
   display: flex; 
   gap: 35px;
