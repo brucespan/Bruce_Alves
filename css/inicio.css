@@ -5,16 +5,12 @@
 .inicio {
   display: flex;
   align-items: center;
-  padding-top: 50px;
+  padding-top: 244px;
   padding-bottom: 150px;
 }
 
 .inicio img {
   transition: 1s;
-}
-
-.inicio img:hover {
-  translate: -20px;
 }
 
 .web {
